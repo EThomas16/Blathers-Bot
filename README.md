@@ -13,8 +13,9 @@ This discord bot provides an interactive interface to the Animal Crossing Wiki, 
 
 ### How to run
 Navigate to the directory in command line and type:
-    Windows: python discord_bot.py
-    Linux: python3 discord_bot.py
+
+- Windows: python discord_bot.py
+- Linux: python3 discord_bot.py
 
 If you want to run this bot yourself using this method, you will need to generate a keys.txt file in the format:
 token: insert bot token from discord developer portal/application/bot page
